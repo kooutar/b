@@ -9,7 +9,7 @@ body{
     font-family: "Inter", sans-serif;
 }
 .home{
-    background-image: url("/images/loanImages/Design.png");
+    background-image: url("images/loanImages/Design.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -179,7 +179,7 @@ h3{
 form{
     width: 20rem;
     height: 25rem;
-    background-image: url("/images/loanImages/image.png");
+    background-image: url("images/loanImages/image.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
